@@ -1,0 +1,4 @@
+Invalid email format  FOR USER Susan
+Error: Incomplete user data in line: Menna,menna_ka234@domain.com
+Invalid email format magdy_mm23@localhost FOR USER Magdy
+Invalid domain cjisdafjh.com FOR USER Jake
